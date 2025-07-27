@@ -1,6 +1,6 @@
  🎬 *ViewTube - YouTube Clone*
 
-A responsive *YouTube clone* built using *ReactJS, **Tailwind CSS, and the **YouTube Data API *. 
+A responsive *YouTube clone* built using ReactJS, Tailwind CSS, and the YouTube Data API . 
 Users can browse, search, and watch videos just like on YouTube.
 
 ---
