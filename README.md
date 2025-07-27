@@ -1,25 +1,24 @@
-# 🎥 STREAMING-WEB
+ 🎬 *ViewTube - YouTube Clone*
 
-A basic video streaming web app inspired by YouTube, built using **React.js**, **Tailwind CSS**, and other modern web technologies.
-
----
-
-## 🚀 Features
-
-- 🔍 Search bar with real-time suggestions
-- 🎬 Home page with trending videos
-- 📺 Watch page with comments section & Live chat
-- 📂 Sidebar with navigation icons
-- 📱 Simple and clean UI
+A responsive *YouTube clone* built using *ReactJS, **Tailwind CSS, and the **YouTube Data API *. 
+Users can browse, search, and watch videos just like on YouTube.
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠 *Key Features*
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 🔁 Redux
-- 📦 React Icons
-- 📡 YouTube API
+- 🔍 *Search* videos by keyword  
+- 📺 *Watch videos* in a custom player  
+- 📄 Show *video details* and metadata  
+- 📚 Display *related videos*  
+- 📱 *Responsive design* for all devices  
+- ⚡ *Fast and smooth* loading
 
 ---
+
+ 🧰 *Tech Stack*
+
+- *Frontend*: ReactJS, Tailwind CSS  
+- *API*: YouTube Data API v3  
+- *Other Tools*: React-Redux, React Router DOM
+
